@@ -4,7 +4,7 @@
 
     <!-- Remotes -->
     <remote name="Failedmush" fetch="https://github.com/Failedmush" revision="lineage-22.1" />
-    <remote name="Rocky784" fetch="https:/https://github.com/Rocky7842" revision="crdroid-15.0" />
+    <remote name="Rocky784" fetch="https://github.com/Rocky7842" revision="crdroid-15.0" />
    <!-- Device - Common -->
 
     <!-- Removals -->
