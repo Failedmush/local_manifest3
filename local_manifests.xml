@@ -22,7 +22,7 @@
     <project path="vendor/xiaomi/sm8350-common" name="android_vendor_xiaomi_sm8350-common" remote="Sakura" />
 
     <!-- FRAMEWORK -->
-    <project path="android_frameworks_native" name="android_frameworks_native" remote="crdroidandroid" />
+    <project path="android_frameworks_base" name="android_frameworks_base" remote="crdroidandroid" />
     <!-- Hardware -->
    <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="Sakura" />
 
